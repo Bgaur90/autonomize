@@ -112,12 +112,24 @@
    .container_2{
     margin-top: 50px;
    }
+   .container_2_phases{
+    gap: 22px;
+   }
    .phases{
     font-size: 12px;
     text-align: center;
-    gap: 45px;
    }
-.phases li:first-child{
+   .phases img{
+    width: 15px;
+    height: 15px;
+   }
+   .phases{
+    align-items: center;
+    gap: 8px;
+   }
+
+/* .phases li:first-child{
+  
   list-style: url(./images/green-circle.png);
   text-align: center;
 }
@@ -128,7 +140,7 @@
 .phases li:last-child{
   list-style: url(./images/yellow.png);
   gap: 30px;
-}
+} */
 .container_2{
   position: relative;
 }
