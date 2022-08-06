@@ -127,20 +127,6 @@
     align-items: center;
     gap: 8px;
    }
-
-/* .phases li:first-child{
-  
-  list-style: url(./images/green-circle.png);
-  text-align: center;
-}
-.phases li:nth-child(2){
-  list-style: url(./images/red-circle.png);
-  gap: 30px;
-}
-.phases li:last-child{
-  list-style: url(./images/yellow.png);
-  gap: 30px;
-} */
 .container_2{
   position: relative;
 }
