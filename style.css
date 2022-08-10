@@ -56,7 +56,7 @@
   /* styling */
 
   main{
-    max-width: calc(100% - 450px);
+    max-width: 1008px;
     margin: auto;
     margin-top: 100px;
   }
@@ -103,7 +103,7 @@
   /* container-2 */
   .grid{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(390px, 1fr));
   }
    .container_2{
     margin-top: 50px;
@@ -134,7 +134,7 @@
     background-color: var(--dark-grey);
     left: 0;
     bottom: 0;
-    top: 30px;
+    top: 35px;
 }
 .container_3{
   margin-top: 50px;
